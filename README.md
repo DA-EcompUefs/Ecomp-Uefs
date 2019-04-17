@@ -12,7 +12,7 @@ Para criar seu tópico segue o [ Issues do Projeto ](https://github.com/wstroks/
 
 ### Cadastrando uma _issues_
 
-Abra uma **issue** e, no titulo desta _issue_, coloque um titulo de fácil entendimento para o seu tópico.
+Abra uma **issue** e, no titulo desta _issue_, coloque um titulo de fácil entendimento para gerar uma boa discussão.
 
 
 
