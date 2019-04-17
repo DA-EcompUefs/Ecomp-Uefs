@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/logo.jpg" width="300" alt="Dev FSA">
+<img src="img/logo.jpg" width="300" alt="ECOMP">
 </p>
 <h1 align="center">Engenharia da Computação (UEFS)</h1>
 <p align="center"> Espaço para debates e soluções referentes ao curso de computação, informações sobre os laborátorios, pesquisas realizadas e entre outras.</p>
@@ -8,7 +8,7 @@
 
 Espaço para discussões sobre problemas do curso e/ou propor novas propostas de melhoria no curso via _issues_ do Github.
 
-Vagas disponíveis em nas [ Issues do Projeto ](https://github.com/wstroks/Ecomp-Uefs/issues)
+Para criar seu tópico segue o [ Issues do Projeto ](https://github.com/wstroks/Ecomp-Uefs/issues)
 
 ### Cadastrando uma _issues_
 
