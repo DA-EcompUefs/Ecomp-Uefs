@@ -10,6 +10,8 @@
 * Tecnologias e Técnicas de Modelagem e Produção de Jogos Digitais;
 * Ambientes e Arquiteturas para Jogos e Entretenimento Digital.
 
+## Localização
+Universidade Estudual de Feira de Santana, LABOTEC III, sala S3
 ## Contato
 vsarinho@uefs.br
 
