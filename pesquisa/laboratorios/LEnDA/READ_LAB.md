@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/LENDA.JPG" width="400" alt="LEnDA">
+<img src="../../../..img/LENDA.JPG" width="400" alt="LEnDA">
 </p>
 <h1 align="center">LEnDA - Laboratório de Entretenimento Digital Aplicado.</h1>
 <p align="center"> O professor Victor Travassos Sarinho é o criador e responsável pelo laborátorio. Professor Adjunto; DEXA/UEFS; Doutor em Ciência da Computação</p>
