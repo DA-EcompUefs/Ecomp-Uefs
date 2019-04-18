@@ -3,4 +3,4 @@
 
 ## Laboratório
 Adicione aqui o seu laboratório.
-* [LEnDA - Laboratório de Entretenimento Digital Aplicado. Professor responsável Victor Travessos Sarinho.](https://github.com/wstroks/Ecomp-Uefs/tree/master/pesquisa/laboratorios/LEnDA).
+* [LEnDA - Laboratório de Entretenimento Digital Aplicado. Professor responsável Victor Travessos Sarinho](https://github.com/wstroks/Ecomp-Uefs/tree/master/pesquisa/laboratorios/LEnDA).
