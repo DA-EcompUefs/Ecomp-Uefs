@@ -10,6 +10,12 @@
 * Tecnologias e Técnicas de Modelagem e Produção de Jogos Digitais;
 * Ambientes e Arquiteturas para Jogos e Entretenimento Digital.
 
+## Informações adicionais 
+### [Projetos ativos](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/projetos_ativos/PROJETOS_ATIVOS.md)
+### [Projetos finalizados](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/projetos_finalizados/PROJETOS_FINALIZADOS.md)
+### [Infraestrutura](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/infraestrutura/INFRAESTRUTURA.md)
+
+
 ## Localização
 Universidade Estudual de Feira de Santana, LABOTEC III, sala S3.
 ## Contato
