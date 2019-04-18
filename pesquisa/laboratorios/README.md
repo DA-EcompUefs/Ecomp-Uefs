@@ -1,5 +1,5 @@
-<h1 align="center">Laborátorio</h1>
-<p align="center">Serão descritos todas as informações dos laborátorios de ecomp, como: projetos, equipe, localizalçao, contato e etc.</p>
+<h1 align="center">Laboratório</h1>
+<p align="center">Serão descritos todas as informações dos laborátorios de ecomp, como: projetos, equipe, localização, contato e etc.</p>
 
 ## Laboratório
 Adicione aqui o seu laboratório.
