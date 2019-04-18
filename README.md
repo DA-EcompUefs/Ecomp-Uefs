@@ -12,12 +12,10 @@ Neste documento, primeiro está descrita a organização do repositório. Depois
 
 A maioria das pastas são auto-descritivas. Enquanto não arrumamos nomes melhores, aí vai uma descrição das pastas mais confusas:
 
-area_do_estudante contém informações referentes à vida estudantil. DA, Manual do Estudante, Representação Discente
-atividades_complementares é a área de expor trabalhos, palestras e qualquer contribuição criativa dos estudantes na área do curso
-ações contém 
-discussões é a área para discussões referentes ao curso
-grupos contém informações sobre grupos criados pelos alunos (IEEE, EcompJr, Maratona de Programação etc)
-meta-repositório contém dados e discussão sobre este repositório
+- area_do_estudante contém informações referentes à vida estudantil. DA, Manual do Estudante, Representação Discente
+- atividades_complementares é a área de expor trabalhos, palestras e qualquer contribuição criativa dos estudantes na área do curso
+- grupos contém informações sobre grupos criados pelos alunos (IEEE, EcompJr, Maratona de Programação etc)
+- meta-repositório contém dados, discussão, read-mes e FAQs sobre este repositório
 
 # Como contribuir
 
