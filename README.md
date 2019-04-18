@@ -51,3 +51,4 @@ Popule este repositório com as informações dos lugares que você interage no 
 # TODOs do repositório:
 - Organizar/melhorar os README.MD
 - Fazer Manual do Estudante
+- Criar lista de necessidades/problemas dos componentes do labhard
