@@ -16,7 +16,7 @@ vsarinho@uefs.br
 ## Equipe
 
 #### Washington Pagotto Batista
-Atualmente é estágiario do LEnDA.
+Atualmente é estagiario do LEnDA.
 * [Github](https://github.com/wstroks/);
 * Contato: wstroks@gmail.com;
 * [instagram](https://github.com/wstroks/);
