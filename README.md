@@ -53,7 +53,3 @@ Popule este repositório com as informações dos lugares que você interage no 
 # TODOs do repositório:
 - Organizar/melhorar os README.MD
 - Fazer Manual do Estudante
-- Criar eventos e subpastas: campeonatos, SIECOMP, futuros, oficinas (scratch, POO, cd)
-- Criar pasta "off-topic" pra discussões fora do tópico de engenharia da computação
-- Criar pasta intercâmbio
-
