@@ -11,9 +11,9 @@
 * Ambientes e Arquiteturas para Jogos e Entretenimento Digital.
 
 ## Informações adicionais 
-### [Projetos ativos](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/projetos_ativos/PROJETOS_ATIVOS.md)
-### [Projetos finalizados](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/projetos_finalizados/PROJETOS_FINALIZADOS.md)
-### [Infraestrutura](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/infraestrutura/INFRAESTRUTURA.md)
+### [Projetos ativos](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/projetos_ativos/README.md)
+### [Projetos finalizados](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/projetos_finalizados/README.md)
+### [Infraestrutura](https://github.com/wstroks/Ecomp-Uefs/blob/master/pesquisa/laboratorios/LEnDA/infraestrutura/README.md)
 
 
 ## Localização
