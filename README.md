@@ -49,6 +49,9 @@ Popule este repositório com as informações dos lugares que você interage no 
 
 
 # TODOs do repositório:
-- Organizar/melhorar os README.MD
+- Criar/Organizar/melhorar os arquivos README.md de cada pasta
+- Criar a primeira _Issue_
+- Decidir se vamos discutir por _Issues_ ou _Pull Requests_
+- Adicionar informações que temos sobre o curso. Grupos, ligas, laboratórios, etc.
 - Fazer Manual do Estudante
 - Criar lista de necessidades/problemas dos componentes do labhard
