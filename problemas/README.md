@@ -1,13 +1,13 @@
 # Intro
 
-Esta seção descreve os problemas levantados no curso. Qual é o problema, como foram identificados, quais as possíveis causas e soluções e como mensurar se estas soluções estão realmente fazendo efeito. Contribuam discutindo os problemas e soluções existentes e identificando novos problemas.
+Esta seção descreve os problemas levantados no curso. Qual é o problema, como foi identificado, quais as possíveis causas e soluções e como mensurar se estas soluções estão realmente fazendo efeito. Contribuam discutindo os problemas e soluções existentes e identificando novos problemas.
 
-Por favor, quando for levantar um novo problema, certifique-se de descrever claramente o problema e as situações que ocorreram. Levantar causas, propor soluções ou métricas de avaliações é opcional.
-
-Quando um problema for adicionado à pasta, certifique-se de adicionar este também ao README, para que ele esteja facilmente visível na primeira seção
+Por favor, quando for levantar um novo problema, certifique-se de descrever claramente o problema e as situações que ocorreram. Levantar causas, propor soluções ou métricas de avaliações é opcional. Tente dizer por quê esse problema é importante, de forma a motivar outros alunos a te ajudarem a resolver. Insira estas pessoas na equipe trabalhando para resolver este problema. Reuna um grupo de pessoas e resolva-o!
 
 
 # Problemas
+
+Quando um problema for adicionado à pasta, certifique-se de adicionar este também ao README, para que ele esteja facilmente visível na primeira seção
 
 #### Desunião dos alunos
 Não nos unimos para reuniões do DA, protestar, SIECOMP ou alguma atividade coletiva. Poucos comparecem.
