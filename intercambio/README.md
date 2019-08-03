@@ -4,6 +4,8 @@ Esta é a área de intercâmbio! Se você planeja fazer um intercâmbio ou já f
 
 Aqui você pode encontrar o contato de quem já fez intercâmbio, dicas para aquisição das passagens, dicas para estadia lá e por aí vai. Pode também deixar sua dúvida através de uma _Issue_, na aba de _Issues_.
 
+Existem alguns manuais pra Universidades específicas que serão adicionados ao diretório.
+
 ## Índice:
  - Por que fazer intercâmbio?
  - Edital AERI
