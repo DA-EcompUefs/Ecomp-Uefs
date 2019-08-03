@@ -5,6 +5,7 @@ Esta é a área de intercâmbio! Se você planeja fazer um intercâmbio ou já f
 Aqui você pode encontrar o contato de quem já fez intercâmbio, dicas para aquisição das passagens, dicas para estadia lá e por aí vai. Pode também deixar sua dúvida através de uma _Issue_, na aba de _Issues_.
 
 ## Índice:
+ - Por que fazer intercâmbio?
  - Edital AERI
  - Documentação para viagem
  - Passagens
@@ -13,11 +14,13 @@ Aqui você pode encontrar o contato de quem já fez intercâmbio, dicas para aqu
  - Turismo
  - Estudos
 
+## Por que fazer intercâmbio?
+
 ## Edital AERI
 
 ## Documentação para viagem
 
-Para viajar, você vai precisar de passaporte e visto para o país de destino. Assim que sair o resultado da primeira fase do Edital AERI já comece a providenciar esta documentação imediatamente! Em geral as Universidades de destino aceitam os alunos, então não há por que esperar. Estes documentos demoram a ser emitidos e a recomendação é que se compre a passagem após o recebimento do visto.
+Para viajar, você precisará de passaporte e visto para o país de destino. Assim que sair o resultado da primeira fase do Edital AERI já comece a providenciar esta documentação imediatamente! Em geral as Universidades de destino aceitam os alunos, então não há por que esperar. Estes documentos demoram a ser emitidos e a recomendação é que se compre a passagem após o recebimento do visto. Então quanto mais rápido você receber o visto, melhor oportunidades para aquisição da passagem você terá.
 
 A documentação necessária à aquisição do passaporte e do visto pode mudar. Portanto, confira sempre as informações em fontes oficiais. A documentação e orientação de aquisição do visto mudou durante a aquisição destes documentos pelos intercambistas de 2019.2 e ocasionou algumas confusões. Sempre confira as instruções oficiais! Este manual não é uma fonte oficial, mas um guia prático das etapas necessárias a cumprir pra realizar o intercâmbio.
 
@@ -35,7 +38,7 @@ Para adquirir o passaporte, você pode consultar o passo a passo no site da Pol�
 
 Em Feira, há um posto no SAC próximo à rodoviária no endereço R. Vasco Filho, 23 - Serraria Brasil, Feira de Santana - BA, 44003-246.
 
-O passaporte fica pronto com aproximadamente 2 semanas. Você precisará do passaporte pra agendar o pedido do visto. Enquanto o passaporte fica pronto, vá adiantando o pedido do visto.
+O passaporte fica pronto em aproximadamente 2 semanas. Você precisará do passaporte pra agendar o pedido do visto. Enquanto o passaporte fica pronto, vá adiantando o pedido do visto.
 
 #### PB4 e Visto
 
@@ -51,7 +54,7 @@ Você receberá 4 cópias do PB4. É necessário reconhecer firma de todas estas
 
 No momento da escrita desta versão, o processo de aquisição de visto está em transição. Não acontece mais diretamente no [Consulado em Salvador](https://www.salvadordabaia.consuladoportugal.mne.pt/pt/), mas agora você realiza o processo com a [VFS](https://www.vfsglobal.com/portugal/Brazil/index.html). Os documentos solicitados também estão mudando. Solicitei ontem o visto com os seguintes documentos e consegui:
 
-- [Formulário de Pedido do Visto](https://www.vistos.mne.pt/images/schengen/formularios/formulario_em_pt_-_rev.pdf)
+- [Formulário de Pedido do Visto](https://www.vistos.mne.pt/images/schengen/formularios/formulario_em_pt_-_rev.pdf), preenchido no computador.
 - Foto 3x4 colorida (fundo branco e liso), recente, com boas condições de identificação. Não pode estar de óculos nem sorrindo
 - Passaporte original e cópia autenticada do passaporte e das páginas utilizadas
 - Cópia autenticada do RG
