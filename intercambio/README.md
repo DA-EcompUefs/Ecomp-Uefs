@@ -135,7 +135,7 @@ Nível 2 $$:
 [Google Flights](https://www.google.com/flights/)
 
 
- 
+
 **_Experiência de quem já foi_**
 
 "Comprei no site da TAP" (x2)
@@ -154,6 +154,42 @@ https://www.melhoresdestinos.com.br/melhor-dia-hora-comprar-passagens-aereas.htm
 
 https://blogandarilho.com.br/manual-do-viajante/passagens/saiba-quando-e-melhor-comprar-passagens-aereas/ - 23 de Fevereiro de 2017. Acessado 24/06/19
 
+ - Por que fazer intercâmbio?
+ - Edital AERI
+ - Documentação para viagem
+ - Passagens
+ - Moradia
+ - Dicas para viagem
+ - Turismo
+ - Estudos
+ - Operadoras de Telemóvel
+
+## Moradia
+
+## Financeiro (banco, transações etc)
+
+As regras sobre movimentação financeira internacional podem se tornar um pouco mais complicadas. Há o Imposto sobre Operações Financeiras (IOF) pago em cima de câmbio e só este imposto já há vários locais na Internet explicando como funciona, inclusive [aqui](https://transferwise.com/br/blog/o-que-e-iof) pelo TransferWise. Além disto, usar um cartão internacional ainda embute as taxas do próprio cartão, além de uma série de outras coisas. Se informe a respeito do seu cartão pra ver quanto fica, calcular etc. Em geral é mais caro, mas é bom levar seu cartão internacional pra uma emergência. 
+
+
+
+Existem algumas maneiras de transferir seu dinheiro do Brasil para usar aqui. Comprar euros no Brasil e trazer é uma opção (é importante viajar com algum dinheiro), [WesterUnion](https://www.westernunion.com/), cartão VTM e meu preferido (provavelmente o mais barato) [TransferWise](https://transferwise.com/). Pra utilizar o TransferWise, você precisa de um [IBAN](https://pt.wikipedia.org/wiki/International_Bank_Account_Number) de uma conta no exterior. Ou seja, pra transferir o dinheiro pra você mesmo, precisará de uma conta no exterior. Existem algumas opções: [N26](https://n26.com/en-eu), [Monese](https://monese.com/eu/) e [ActivoBank](https://www.activobank.pt/). Utilizo o N26, um banco alemão, semelhante ao Nubank aqui no Brasil. Não há taxas de anuidade do cartão, é online, pode cadastrar direto no smartphone. Existem alguns lugares que não aceitam cartão internacional (o N26 é alemão!) portanto existem opções também portuguesas de bancos, como o Activo Bank. Pra registrar no Activo, você precisará do [NIF](https://www.montepio.org/ei/pessoal/gestao-diaria/nif-o-que-tem-de-fazer-para-obter/), uma espécie de CPF de Portugal.
+
+
+
+Para cadastrar no TransferWise, clique [aqui](transferwise.com/u/guilhermew53). Para cadastrar no N26, clique [aqui](https://n26.com/r/guilherw7230).
+
+Tente registrar com endereços e telefone de Portugal; assim, quando você indicar um amigo, você receberá a recompensa em euros, não em reais. O TransferWise oferece uma transferência inicial de grátis pro seu amigo, o N26 oferece 15 euros (75 reais, mais ou menos!!). Mais aplicativos e informações sobre registrar na seção Promoções de Apps.
+
+
+
+## Operadoras de Telemóvel
+
+Existem algumas operadoras de telemóvel disponíveis em Portugal. Em geral, as operadoras são bem melhores e oferecem mais vantagens. Na prática, segundo [este](https://adslfibra.pt/operadoras) site, só existem 3 operadoras com infraestrutura própria: NOS, MEO e Vodafone. Para telemóvel (celular) há a [WTF](https://www.wtf.pt/#tarifario) (Rede NOS), [MOCHE](https://www.moche.pt/tarifarios) (Rede MEO) e [YORN](https://www.yorn.net/yorn/tarifario/yornx.html) (Rede Vodafone).
+
+
+
+Provavelmente a operadora mais conhecida entre os intercambistas da UEFS é a WTF que oferece uma promoção de 10 euros por 3 meses. Ao final destes 3 meses, você entra em um dos [tarifarios da WTF](https://www.wtf.pt/#tarifario). Em Porto, você pode achar esta promoção no shopping Via Catarina.
+
 
 
 ## Dicas para viagem
@@ -162,8 +198,16 @@ https://blogandarilho.com.br/manual-do-viajante/passagens/saiba-quando-e-melhor-
 
 ## Estudos
 
-## Moradia
+## Promoções de Apps
+
+Tente registrar com endereços e telefone de Portugal; assim, quando você indicar um amigo, você receberá a recompensa em euros, não em reais. Cada aplicativo oferecerá uma recompensa diferente a você e seu amigo, por utilizar o link de referência.
+
+
 
 
 # TODOs:
+- Moradia
+- Dicas para viagem
+- Turismo
+- Estudos
 - Adicionar declarações ao diretório
