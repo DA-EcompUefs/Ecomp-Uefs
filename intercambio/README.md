@@ -12,9 +12,14 @@ Existem alguns manuais pra Universidades específicas que serão adicionados ao 
  - Documentação para viagem
  - Passagens
  - Moradia
+ - Financeiro
+ - Operadoras de Telemovel
  - Dicas para viagem
  - Turismo
  - Estudos
+ - Contato de intercambistas passados
+
+
 
 ## Por que fazer intercâmbio?
 
@@ -22,9 +27,9 @@ Existem alguns manuais pra Universidades específicas que serão adicionados ao 
 
 ## Documentação para viagem
 
-Para viajar, você precisará de passaporte e visto para o país de destino. Assim que sair o resultado da primeira fase do Edital AERI já comece a providenciar esta documentação imediatamente! Em geral as Universidades de destino aceitam os alunos, então não há por que esperar. Estes documentos demoram a ser emitidos e a recomendação é que se compre a passagem após o recebimento do visto. Então quanto mais rápido você receber o visto, melhor oportunidades para aquisição da passagem você terá.
+Para viajar, você precisará de passaporte e visto para o país de destino. Assim que sair o resultado da primeira fase do Edital AERI já comece a providenciar esta documentação imediatamente! Em geral as Universidades de destino aceitam os alunos, então não há por que esperar. Estes documentos demoram a ser emitidos e a recomendação é que se compre a passagem após o recebimento do visto. Então quanto mais rápido você receber o visto, melhores oportunidades para aquisição da passagem você terá.
 
-A documentação necessária à aquisição do passaporte e do visto pode mudar. Portanto, confira sempre as informações em fontes oficiais. A documentação e orientação de aquisição do visto mudou durante a aquisição destes documentos pelos intercambistas de 2019.2 e ocasionou algumas confusões. Sempre confira as instruções oficiais! Este manual não é uma fonte oficial, mas um guia prático das etapas necessárias a cumprir pra realizar o intercâmbio.
+A documentação necessária à aquisição do passaporte e do visto pode mudar. Portanto, confira sempre as informações em **_fontes oficiais_**. A documentação e orientação de aquisição do visto mudou durante a aquisição destes documentos pelos intercambistas de 2019.2 e ocasionou algumas confusões. Sempre confira as instruções oficiais! Este manual não é uma fonte oficial, mas um guia prático das etapas necessárias a cumprir pra realizar o intercâmbio.
 
 Dito isto, vamos às etapas.
 
@@ -40,7 +45,7 @@ Para adquirir o passaporte, você pode consultar o passo a passo no site da Pol�
 
 Em Feira, há um posto no SAC próximo à rodoviária no endereço R. Vasco Filho, 23 - Serraria Brasil, Feira de Santana - BA, 44003-246.
 
-O passaporte fica pronto em aproximadamente 2 semanas. Você precisará do passaporte pra agendar o pedido do visto. Enquanto o passaporte fica pronto, vá adiantando o pedido do visto.
+O passaporte fica pronto em aproximadamente 2 semanas. Você precisará do passaporte pra agendar o pedido do visto. Enquanto o passaporte fica pronto, vá adiantando a documentação para pedido do visto.
 
 #### PB4 e Visto
 
@@ -52,7 +57,7 @@ Antes da solicitação do visto, é recomendável você solicitar o PB4. O PB4 �
 - Comprovante de residência (nacional)
 - Carta de aceitação da Universidade
 
-Você receberá 4 cópias do PB4. É necessário reconhecer firma de todas estas cópias (há um cartório com a firma a ser reconhecida perto de onde o PB4 é recebido). Uma será apresentada no visto, uma será requerida pela sua Universidade de destino. Das outras duas, apostile uma e faça cópias da outra. Pode ser que outros lugares peçam, então é bom ter cópias. A AERI por exemplo pede uma. Algumas cidades de destino exigem que se apostile o PB4, outras não. Caso você não encontre esta informação oficialmente, diria que é melhor apostilar. Custa 82 reais no cartório.
+Você receberá 4 cópias do PB4. É necessário reconhecer firma de todas estas cópias (há um cartório com a firma a ser reconhecida perto de onde o PB4 é recebido). Uma será apresentada no visto, uma será requerida pela sua Universidade de destino. Das outras duas, apostile uma e faça cópias da outra. Pode ser que outros lugares peçam, então é bom ter cópias. A AERI por exemplo pede uma (entreguei uma xerox de uma dessas cópias com firma reconhecida). Algumas cidades de destino exigem que se apostile o PB4, outras não. Caso você não encontre esta informação oficialmente, diria que é melhor apostilar. Custa 82 reais no cartório.
 
 No momento da escrita desta versão, o processo de aquisição de visto está em transição. Não acontece mais diretamente no [Consulado em Salvador](https://www.salvadordabaia.consuladoportugal.mne.pt/pt/), mas agora você realiza o processo com a [VFS](https://www.vfsglobal.com/portugal/Brazil/index.html). Os documentos solicitados também estão mudando. Solicitei ontem o visto com os seguintes documentos e consegui:
 
@@ -74,7 +79,7 @@ No momento da escrita desta versão, o processo de aquisição de visto está em
   - Comprovante de arrendamento de habitação pelo requerente (no mínimo 8 noites. O comprovante deve ter início no mesmo dia da data prevista de chegada assinalada no Formulário de Pedido do Visto); ou
   - Carta-convite feita por um cidadão que resida legalmente em Portugal
 
-Os documentos necessários foram consultados a partir do arquivo documentos_visto.pdf, presente neste diretório.
+Os documentos necessários foram consultados a partir do arquivo documentos_visto.pdf, presente neste diretório. Lá em cima na página ;)
 
 Para o comprovativo de alojamento, você pode agendar no site [Booking.com](https://www.booking.com/). Podem haver alojamentos que não cobrem para cancelar o alojamento e nem peçam os dados do cartão para agendar. Desta forma você pode agendar para o pedido do visto e cancelar depois. Também já é uma garantia de que, caso você não consiga alojamento antes de chegar a seu destino, terá onde ficar.
 
@@ -87,7 +92,7 @@ Se você se organizar, só precisará esperar por horas na fila do cartório uma
 
 Com todos os documentos prontos, formulário do pedido preenchido e agendamento realizado no site da VFS, dirija-se à VFS em Salvador. Fica na Avenida Tancredo Neves, 2227 - Caminho das Árvores. Próximo ao Salvador Shopping e ao lado da UNIFAX da Tancredo Neves.
 
-O visto não fica pronto com menos de 30 dias, segundo as funcionárias do VFS. Depois de pronto, você pode buscar o passaporte lá ou receber em casa via Sedex. Pode colocar qualquer endereço para receber o passaporte. Segundo à funcionária, por Sedex é cerca de 2 dias mais rápido. Aí ela recomenda contratar também o seguro passaporte (30 reais. Recebe 400 dolares caso percam seu passaporte) e serviço de aviso do andamento por SMS e email (9 reais salvo engano).
+O visto não fica pronto com menos de 30 dias, segundo as funcionárias do VFS. Depois de pronto, você pode buscar o passaporte lá ou receber em casa via Sedex. Pode colocar qualquer endereço para receber o passaporte. Segundo à funcionária, por Sedex é cerca de 2 dias mais rápido (muito confuso isso, não entendi. Na prática acabei cancelando o envio por Sedex e indo buscar lá mesmo, acabou se tornando mais rápido). Aí ela recomenda contratar também o seguro passaporte (30 reais. Recebe 400 dolares caso percam seu passaporte) e serviço de aviso do andamento por SMS e email (9 reais salvo engano). Na prática tb nenhum desses serviços vale a pena. Não recebi aviso por SMS nem por email; nem o site pra acompanhar o andamento do visto era atualizado. Pague a menor quantidade possível (desde que te avisem quando ficar pronto) e seja paciente, espere. Ou então peça pra enviar pelo Correios (aí nesse caso faz sentido o seguro) e aguarde.
 
 
 ## Passagens
@@ -96,18 +101,22 @@ Aqui se encontram as dicas em relação a aquisição de passagens aéreas inter
 
 **_Período para aquisição e viagem_**
 
-Em geral, as dicas sobre o período ideal para aquisição de passagens são baseadas em médias. Ou seja, fornecem uma boa indicação genérica, mas o que importa é o preço das passagens. Essa média varia de acordo com o destino da viagem e com a estação. Para viagens internacionais, o período ideal é entre 30 e 60 dias para baixa estação e 60 a 120 dias na alta estação, com algumas variações. Pode chegar até 156 dias, segundo algumas fontes. No entanto, como dependemos do resultado da aceitação da IES de recebimento e do visto, este prazo fica um pouco limitado.
+Em geral, as dicas sobre o período ideal para aquisição de passagens são baseadas em médias. Ou seja, fornecem uma boa indicação genérica, mas não é determinístico. Essa média varia de acordo com o destino da viagem e com a estação. Para viagens internacionais, o período ideal é entre 30 e 60 dias para baixa estação e 60 a 120 dias na alta estação, com algumas variações. Pode chegar até 156 dias, segundo algumas fontes. No entanto, como dependemos do resultado da aceitação da IES de recebimento e do visto, este prazo fica um pouco limitado.
 
 Não esqueça também de pesquisar datas/dias variados para viajar. O dia da viagem também afeta o preço das passagens, pesquise voos em dias próximos. O dia da pesquisa também afeta, mas não há uma regra pra isso. Segundo [este](https://blogandarilho.com.br/manual-do-viajante/passagens/saiba-quando-e-melhor-comprar-passagens-aereas/) site, as companhias aéreas costumam realizar promoções aos finais de semana.
 
-Também vale a pena procurar voos de e para outros aeroportos próximos. A passagem pode sair muito mais barata, dessa forma você pode viajar (por um custo muito menor) a um aeroporto próximo, pegar o voo de lá para um aeroporto próximo do seu destino final e, de lá, pegar um ônibus, trem ou outro transporte para seu destino final. Isto pode diminuir bastante o preço das passagens. Por exemplo, se você vai de Feira pra Porto (Portugal), além de pesquisar Salvador -> Porto, também vale a pena pesquisar Recife -> Porto, Fortaleza -> Porto, São Paulo -> Porto, Recife -> Lisboa, por aí vai. No [Skyscanner](https://www.skyscanner.com.br/) você pode adicionar os aeroportos próximos na busca. Há de se lembrar de duas coisas: quanto mais escalas maior o risco da bagagem ser extraviada; caso a bagagem seja extraviada, ela será devolvida ao aeroporto destino de seu ticket aéreo. Portanto, se você fez escala em Milão antes de ir pra Portugal e trocou de companhia aérea lá, caso sua bagagem seja perdida lá ela será devolvida ao aeroporto de Milão, o que pode complicar um pouco as coisas depois. Fique atento também com o que está incluso no seu bilhete aéreo. Por vezes os pacotes mais baratos não permitem despachar bagagem.
+Também vale a pena procurar voos de e para outros aeroportos próximos. A passagem pode sair muito mais barata, dessa forma você pode viajar (por um custo muito menor) a um aeroporto próximo, pegar o voo de lá para um aeroporto próximo do seu destino final e, de lá, pegar um ônibus, trem ou outro transporte para seu destino final. Isto pode diminuir bastante o preço das passagens. Por exemplo, se você vai de Feira pra Porto (Portugal), além de pesquisar Salvador -> Porto, também vale a pena pesquisar Recife -> Porto, Fortaleza -> Porto, São Paulo -> Porto, Recife -> Lisboa, por aí vai. No [Skyscanner](https://www.skyscanner.com.br/) você pode adicionar os aeroportos próximos na busca. Há de se lembrar de duas coisas: quanto mais escalas maior o risco da bagagem ser extraviada; caso a bagagem seja extraviada, ela será devolvida ao aeroporto destino de seu ticket aéreo. Portanto, se você fez escala em Milão antes de ir pra Portugal e trocou de companhia aérea lá, caso sua bagagem seja perdida lá ela será devolvida ao aeroporto de Milão, o que pode complicar um pouco as coisas depois. Fique atento também com o que está incluso no seu bilhete aéreo. Por vezes os pacotes mais baratos não permitem despachar bagagem! Aí você pode adicionar depois (mais caro) ou ainda pagar lá na hora no check-in, se houver essa disponibilidade, o que é ainda mais caro
 
 **_TLDR:_**
 Comece a pesquisar as passagens antes de ser aceito, pra ter uma melhor referência de preços!
+
 O dia da viagem também afeta o preço! Procure outros dias de decolagem e pouso!
+
 Procure as passagens em todos os dias da semana!
+
 Procure rotas alternativas, voos de/para aeroportos próximos de sua origem/destino!
 
+Fique atento ao que está incluso na sua tarifa! As mais baratas geralmente não permitem mala de porão (despachar)
 
 **_Buscar e monitorar passagens_**
 
@@ -154,29 +163,21 @@ https://www.melhoresdestinos.com.br/melhor-dia-hora-comprar-passagens-aereas.htm
 
 https://blogandarilho.com.br/manual-do-viajante/passagens/saiba-quando-e-melhor-comprar-passagens-aereas/ - 23 de Fevereiro de 2017. Acessado 24/06/19
 
- - Por que fazer intercâmbio?
- - Edital AERI
- - Documentação para viagem
- - Passagens
- - Moradia
- - Dicas para viagem
- - Turismo
- - Estudos
- - Operadoras de Telemóvel
-
 ## Moradia
 
 ## Financeiro (banco, transações etc)
 
-As regras sobre movimentação financeira internacional podem se tornar um pouco mais complicadas. Há o Imposto sobre Operações Financeiras (IOF) pago em cima de câmbio e só este imposto já há vários locais na Internet explicando como funciona, inclusive [aqui](https://transferwise.com/br/blog/o-que-e-iof) pelo TransferWise. Além disto, usar um cartão internacional ainda embute as taxas do próprio cartão, além de uma série de outras coisas. Se informe a respeito do seu cartão pra ver quanto fica, calcular etc. Em geral é mais caro, mas é bom levar seu cartão internacional pra uma emergência. 
+As regras sobre movimentação financeira internacional podem ser bastante complicadas. Há o Imposto sobre Operações Financeiras (IOF) pago em cima de câmbio e só este imposto já há vários locais na Internet explicando como funciona, inclusive [aqui](https://transferwise.com/br/blog/o-que-e-iof) pelo TransferWise. Além disto, usar um cartão internacional ainda embute as taxas do próprio cartão, além de uma série de outras coisas. Se informe a respeito do seu cartão pra ver quanto fica, calcular etc. Em geral é mais caro, mas é bom levar seu cartão internacional pra uma emergência. 
 
 
 
-Existem algumas maneiras de transferir seu dinheiro do Brasil para usar aqui. Comprar euros no Brasil e trazer é uma opção (é importante viajar com algum dinheiro), [WesterUnion](https://www.westernunion.com/), cartão VTM e meu preferido (provavelmente o mais barato) [TransferWise](https://transferwise.com/). Pra utilizar o TransferWise, você precisa de um [IBAN](https://pt.wikipedia.org/wiki/International_Bank_Account_Number) de uma conta no exterior. Ou seja, pra transferir o dinheiro pra você mesmo, precisará de uma conta no exterior. Existem algumas opções: [N26](https://n26.com/en-eu), [Monese](https://monese.com/eu/) e [ActivoBank](https://www.activobank.pt/). Utilizo o N26, um banco alemão, semelhante ao Nubank aqui no Brasil. Não há taxas de anuidade do cartão, é online, pode cadastrar direto no smartphone. Existem alguns lugares que não aceitam cartão internacional (o N26 é alemão!) portanto existem opções também portuguesas de bancos, como o Activo Bank. Pra registrar no Activo, você precisará do [NIF](https://www.montepio.org/ei/pessoal/gestao-diaria/nif-o-que-tem-de-fazer-para-obter/), uma espécie de CPF de Portugal.
+Existem algumas maneiras de transferir seu dinheiro do Brasil para usar aqui. Comprar euros no Brasil e trazer é uma opção (é importante viajar com algum dinheiro), [WesterUnion](https://www.westernunion.com/), cartão VTM e meu preferido (provavelmente o mais barato) [TransferWise](https://transferwise.com/). Pra utilizar o TransferWise, você precisa de um [IBAN](https://pt.wikipedia.org/wiki/International_Bank_Account_Number) de uma conta no exterior. Ou seja, pra transferir o dinheiro pra você mesmo, precisará de uma conta no exterior. Existem algumas opções: [N26](https://n26.com/en-eu), [Monese](https://monese.com/eu/) e [ActivoBank](https://www.activobank.pt/). Utilizo o N26, um banco alemão, semelhante ao Nubank aqui no Brasil. Não há taxas de anuidade do cartão (cuidado tem uns cartões "mais bonitos" que você paga taxa só pela "beleza" do cartão), é online, pode cadastrar direto no smartphone. Existem alguns lugares que não aceitam cartão internacional (o N26 é alemão!) portanto existem opções também portuguesas de bancos, como o Activo Bank. Pra registrar no Activo, você precisará do [NIF](https://www.montepio.org/ei/pessoal/gestao-diaria/nif-o-que-tem-de-fazer-para-obter/), uma espécie de CPF de Portugal.
 
 
 
 Para cadastrar no TransferWise, clique [aqui](transferwise.com/u/guilhermew53). Para cadastrar no N26, clique [aqui](https://n26.com/r/guilherw7230).
+
+
 
 Tente registrar com endereços e telefone de Portugal; assim, quando você indicar um amigo, você receberá a recompensa em euros, não em reais. O TransferWise oferece uma transferência inicial de grátis pro seu amigo, o N26 oferece 15 euros (75 reais, mais ou menos!!). Mais aplicativos e informações sobre registrar na seção Promoções de Apps.
 
@@ -201,6 +202,14 @@ Provavelmente a operadora mais conhecida entre os intercambistas da UEFS é a WT
 ## Promoções de Apps
 
 Tente registrar com endereços e telefone de Portugal; assim, quando você indicar um amigo, você receberá a recompensa em euros, não em reais. Cada aplicativo oferecerá uma recompensa diferente a você e seu amigo, por utilizar o link de referência.
+
+
+
+## Contato de intercambistas passados
+
+- Guilherme Wanderley - Engenharia da Computação - Faculdade de Engenharia da Universidade do Porto (FEUP)
+
+  **Email:** guilhermelw.uefs@gmail.com ; **ZAP:** +55 75 99299 8228
 
 
 
