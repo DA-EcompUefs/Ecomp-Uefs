@@ -171,15 +171,23 @@ As regras sobre movimentação financeira internacional podem ser bastante compl
 
 
 
-Existem algumas maneiras de transferir seu dinheiro do Brasil para usar aqui. Comprar euros no Brasil e trazer é uma opção (é importante viajar com algum dinheiro), [WesterUnion](https://www.westernunion.com/), cartão VTM e meu preferido (provavelmente o mais barato) [TransferWise](https://transferwise.com/). Pra utilizar o TransferWise, você precisa de um [IBAN](https://pt.wikipedia.org/wiki/International_Bank_Account_Number) de uma conta no exterior. Ou seja, pra transferir o dinheiro pra você mesmo, precisará de uma conta no exterior. Existem algumas opções: [N26](https://n26.com/en-eu), [Monese](https://monese.com/eu/) e [ActivoBank](https://www.activobank.pt/). Utilizo o N26, um banco alemão, semelhante ao Nubank aqui no Brasil. Não há taxas de anuidade do cartão (cuidado tem uns cartões "mais bonitos" que você paga taxa só pela "beleza" do cartão), é online, pode cadastrar direto no smartphone. Existem alguns lugares que não aceitam cartão internacional (o N26 é alemão!) portanto existem opções também portuguesas de bancos, como o Activo Bank. Pra registrar no Activo, você precisará do [NIF](https://www.montepio.org/ei/pessoal/gestao-diaria/nif-o-que-tem-de-fazer-para-obter/), uma espécie de CPF de Portugal.
+Existem algumas maneiras de transferir seu dinheiro do Brasil para usar aqui. Comprar euros no Brasil e trazer é uma opção (é importante viajar com algum dinheiro), [WesterUnion](https://www.westernunion.com/), cartão VTM e meus preferidos (provavelmente os mais baratos) [TransferWise](https://transferwise.com/) e [RemessaOnline](https://www.remessaonline.com.br/). Vale a pena, antes de transferir, qual opção mais barata de transferência.
 
 
 
-Para cadastrar no TransferWise, clique [aqui](transferwise.com/u/guilhermew53). Para cadastrar no N26, clique [aqui](https://n26.com/r/guilherw7230).
+Pra utilizar estes últimos, você precisa de um [IBAN](https://pt.wikipedia.org/wiki/International_Bank_Account_Number) de uma conta no exterior. Ou seja, pra transferir o dinheiro pra você mesmo, precisará de uma conta no exterior. Existem algumas opções: [N26](https://n26.com/en-eu), [Monese](https://monese.com/eu/) e [ActivoBank](https://www.activobank.pt/). Utilizo o N26, um banco alemão, semelhante ao Nubank aqui no Brasil. Não há taxas de anuidade do cartão (cuidado tem uns cartões "mais bonitos" que você paga taxa só pela "beleza" do cartão), é online, pode cadastrar direto no smartphone. Existem alguns lugares que não aceitam cartão internacional (o N26 é alemão!) portanto existem opções também portuguesas de bancos, como o Activo Bank. Pra registrar no Activo, você precisará do [NIF](https://www.montepio.org/ei/pessoal/gestao-diaria/nif-o-que-tem-de-fazer-para-obter/), uma espécie de CPF de Portugal.
 
 
 
-Tente registrar com endereços e telefone de Portugal; assim, quando você indicar um amigo, você receberá a recompensa em euros, não em reais. O TransferWise oferece uma transferência inicial de grátis pro seu amigo, o N26 oferece 15 euros (75 reais, mais ou menos!!). Mais aplicativos e informações sobre registrar na seção Promoções de Apps.
+Para cadastrar no TransferWise, clique [aqui](transferwise.com/u/guilhermew53) e obtenha isenção de taxas na primeira transferência.
+
+Para cadastrar no RemessaOnline, clique [aqui](https://remessaonline.com.br?utm_voucher=gw533&utm_medium=mgm-whatsapp) e obtenha um desconto na primeira transferência.
+
+Para cadastrar no N26, clique [aqui](https://n26.com/r/guilherw7230).
+
+
+
+Tente registrar com endereços e telefone de Portugal (o RemessaOnline é BR mesmo); assim, quando você indicar um amigo, você receberá a recompensa em euros, não em reais. O TransferWise oferece uma transferência inicial de grátis pro seu amigo, o N26 oferece 15 euros (75 reais, mais ou menos!!). Mais aplicativos e informações sobre registrar na seção Promoções de Apps.
 
 
 
